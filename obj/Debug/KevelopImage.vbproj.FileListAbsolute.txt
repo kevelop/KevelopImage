@@ -1,0 +1,11 @@
+C:\Code\KevelopImage\bin\Debug\KevelopImage.exe.config
+C:\code\KevelopImage\bin\Debug\KevelopImage.exe
+C:\code\KevelopImage\bin\Debug\KevelopImage.pdb
+C:\code\KevelopImage\bin\Debug\KevelopImage.xml
+C:\code\KevelopImage\obj\Debug\KevelopImage.vbprojResolveAssemblyReference.cache
+C:\code\KevelopImage\obj\Debug\WindowsApplication1.Form1.resources
+C:\code\KevelopImage\obj\Debug\WindowsApplication1.Resources.resources
+C:\code\KevelopImage\obj\Debug\KevelopImage.vbproj.GenerateResource.Cache
+C:\code\KevelopImage\obj\Debug\KevelopImage.exe
+C:\code\KevelopImage\obj\Debug\KevelopImage.xml
+C:\code\KevelopImage\obj\Debug\KevelopImage.pdb
